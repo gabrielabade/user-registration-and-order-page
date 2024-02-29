@@ -18,7 +18,7 @@ Este é um pequeno projeto de um restaurante de hambúrguer chamado beefKign. O 
 ## Como Executar
 ### Front-end
 1. Clone este repositório.
-2. Navegue até a pasta **frontend-react**.
+2. Abre a pasta **frontend-react**.
 3. Execute `npm install` para instalar as dependências.
 4. Execute `npm start` para iniciar o servidor de desenvolvimento.
 
@@ -29,6 +29,8 @@ Este é um pequeno projeto de um restaurante de hambúrguer chamado beefKign. O 
 4. Execute `npm start` para iniciar o servidor.
 
 ## Screenshots
+<div style="display:flex;">
  <img src="./frontend-react/src/assets/exemplo1.png" alt="exemplo" width="225px"/>
  <img src="./frontend-react/src/assets/exemplo2.png" alt="exemplo" width="225px"/>
  <img src="./frontend-react/src/assets/exemplo3.png" alt="exemplo" width="225px"/>
+</div>
