@@ -1,4 +1,4 @@
-# BeefKign - Burger Restaurant 🍔
+# BeefKing - Burger Restaurant 🍔
 
 ## Descrição
 Este é um pequeno projeto de um restaurante de hambúrguer chamado beefKign. O objetivo principal é criar uma página de cadastro de usuários e pedidos, onde os usuários podem fazer seus pedidos e incluir seus nomes para identificação. O projeto foi desenvolvido usando React.js no front-end e Node.js no back-end.
@@ -19,14 +19,14 @@ Este é um pequeno projeto de um restaurante de hambúrguer chamado beefKign. O 
 ### Front-end
 1. Clone este repositório.
 2. Abre a pasta **frontend-react**.
-3. Execute `npm install` para instalar as dependências.
-4. Execute `npm start` para iniciar o servidor de desenvolvimento.
+3. Execute `yarn install` para instalar as dependências.
+4. Execute `yarn start` para iniciar o servidor de desenvolvimento.
 
 ### Back-end
 1. Com este repositório clonado:
 2. Navegue até a pasta **backend-node**.
-3. Execute `npm install` para instalar as dependências.
-4. Execute `npm start` para iniciar o servidor.
+3. Execute `yarn install` para instalar as dependências.
+4. Execute `yarn dev` para iniciar o servidor.
 
 ## Screenshots
 <div style="display:flex;">
